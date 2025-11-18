@@ -1,11 +1,10 @@
-# EXP-4
-EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
+## EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
-AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
+# AIM: To study the characteristics of half wave, full wave and bridge rectifier with and without filter and calculate the ripple factor, rectification efficiency and % regulation.
 
 COMPONENTS  AND  EQUIPMENT  REQUIRED:  Diodes,  Resistor,  Transformer,  Voltmeter, Ammeter, Breadboard and CRO.
 
-THEORY: Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
+# THEORY: Rectifier changes ac to dc and it is an essential part of power supply. The unique property of a diode, permitting the current to flow in one direction, is utilised in rectifiers.
 
 Half Wave Rectifier
 
@@ -38,15 +37,26 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+![505094933-5fc2a9db-69ee-4b57-878d-550ab9b396c8](https://github.com/user-attachments/assets/8c455633-39d4-4dcf-b40c-ca4c4d9b3fdc)
+
+
 Bridge rectifier with filter:
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+<img width="1382" height="952" alt="Screenshot 2025-10-27 092300" src="https://github.com/user-attachments/assets/f65b8977-1b28-42d0-b0b9-3e4cd31f271e" />
+
+
+TABULAR COLUMN:
+
+<img width="771" height="1134" alt="image" src="https://github.com/user-attachments/assets/0c25b8f0-aff8-4c46-beb8-85f04867cd71" />
+<img width="804" height="1166" alt="image" src="https://github.com/user-attachments/assets/6f6bdfdb-eb4b-4093-b1d3-afd851a71f30" />
+<img width="639" height="1106" alt="image" src="https://github.com/user-attachments/assets/ace0c994-bf3e-4e12-bdb0-ea9cbe93c503" />
+<img width="672" height="1112" alt="image" src="https://github.com/user-attachments/assets/b0567b9f-e4da-4e1d-b4c4-f2f68330f978" />
+<img width="797" height="1168" alt="image" src="https://github.com/user-attachments/assets/e54a9efb-76b4-4a6a-9876-62802c20b948" />
+<img width="767" height="1280" alt="image" src="https://github.com/user-attachments/assets/e1023e55-ced2-4978-9bda-0fda417eb865" />
 
 WAVEFORM:
 
+<img width="1917" height="1109" alt="Screenshot 2025-10-27 092026" src="https://github.com/user-attachments/assets/21de3af2-4579-4f37-aa3d-22b4438df89c" />
 
 RESULT:
 
